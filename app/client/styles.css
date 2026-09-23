@@ -1,0 +1,11 @@
+@import "missing.css";
+
+:root {
+  color-scheme: light dark;
+}
+
+main {
+  max-width: 42rem;
+  margin: 4rem auto;
+  padding: 0 1rem;
+}
