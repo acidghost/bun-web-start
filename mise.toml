@@ -4,4 +4,4 @@ lockfile = true
 pin = true
 
 [tools]
-bun = "1.4.2"
+bun = "1.4.3"
